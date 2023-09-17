@@ -1,2 +1,3 @@
 # git-tes
-My firsh GitHub repo!
+this is my first documetation
+
